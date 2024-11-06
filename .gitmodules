@@ -69,3 +69,6 @@
 [submodule "Tweaks/BlockChannels"]
 	path = Tweaks/BlockChannels
 	url = https://github.com/castdrian/Gonerino.git
+[submodule "Tweaks/Gonerino"]
+	path = Tweaks/Gonerino
+	url = https://github.com/castdrian/Gonerino.git
