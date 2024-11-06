@@ -66,3 +66,6 @@
 [submodule "Tweaks/protobuf"]
 	path = Tweaks/protobuf
 	url = https://github.com/protocolbuffers/protobuf.git
+[submodule "Tweaks/BlockChannels"]
+	path = Tweaks/BlockChannels
+	url = https://github.com/castdrian/Gonerino.git
